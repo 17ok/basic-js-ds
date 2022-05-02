@@ -24,7 +24,7 @@ const { NotImplementedError } = require('../extensions/index.js');
  */
 
 
-function removeKFromList(/*l, k/*) {
+function removeKFromList(/*l, k*/) {
 /*let cur = l;
 let prev = k;
 while (cur) {
